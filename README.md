@@ -6,7 +6,7 @@ An interactive customer segmentation dashboard built using **Machine Learning**,
 
 ##  Live Demo
 
-Coming Soon 
+https://ai-customer-segmentation-studio-2407.streamlit.app 
 
 ---
 
