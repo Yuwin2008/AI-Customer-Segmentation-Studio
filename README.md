@@ -90,7 +90,7 @@ Example:
 
 ##  Machine Learning Pipeline
 
-'''text
+```text
 Dataset Upload
 ↓
 Feature Selection
@@ -104,9 +104,8 @@ Customer Segmentation
 Business Insights
 ↓
 Download Results
-'''
 
-
+```
 
 ---
 
