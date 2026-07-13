@@ -4,6 +4,23 @@ An interactive customer segmentation dashboard built using **Machine Learning**,
 
 ---
 
+![Python](https://img.shields.io/badge/Python-3.11+-blue?logo=python)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikitlearn)
+![Plotly](https://img.shields.io/badge/Plotly-Interactive_Dashboard-blue?logo=plotly)
+![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-black?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical_Computing-blue?logo=numpy)
+![KMeans](https://img.shields.io/badge/KMeans-Clustering-success)
+![Machine%20Learning](https://img.shields.io/badge/Machine-Learning-green)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![License](https://img.shields.io/badge/License-MIT-green)
+![GitHub stars](https://img.shields.io/github/stars/Yuwin2008/AI-Customer-Segmentation-Studio?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Yuwin2008/AI-Customer-Segmentation-Studio?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/Yuwin2008/AI-Customer-Segmentation-Studio)
+![GitHub repo size](https://img.shields.io/github/repo-size/Yuwin2008/AI-Customer-Segmentation-Studio)
+![Live Demo](https://ai-customer-segmentation-studio-2407.streamlit.app/)
+
+---
 ##  Live Demo
 
 https://ai-customer-segmentation-studio-2407.streamlit.app 
