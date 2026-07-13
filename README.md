@@ -14,7 +14,7 @@ An interactive customer segmentation dashboard built using **Machine Learning**,
 ![Machine%20Learning](https://img.shields.io/badge/Machine-Learning-green)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![License](https://img.shields.io/badge/License-MIT-green)
-![Live Demo](https://ai-customer-segmentation-studio-2407.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success)](https://ai-customer-segmentation-studio-2407.streamlit.app/)
 
 ---
 ##  Live Demo
