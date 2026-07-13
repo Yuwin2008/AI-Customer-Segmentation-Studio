@@ -14,10 +14,6 @@ An interactive customer segmentation dashboard built using **Machine Learning**,
 ![Machine%20Learning](https://img.shields.io/badge/Machine-Learning-green)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![License](https://img.shields.io/badge/License-MIT-green)
-![GitHub stars](https://img.shields.io/github/stars/Yuwin2008/AI-Customer-Segmentation-Studio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Yuwin2008/AI-Customer-Segmentation-Studio?style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/Yuwin2008/AI-Customer-Segmentation-Studio)
-![GitHub repo size](https://img.shields.io/github/repo-size/Yuwin2008/AI-Customer-Segmentation-Studio)
 ![Live Demo](https://ai-customer-segmentation-studio-2407.streamlit.app/)
 
 ---
