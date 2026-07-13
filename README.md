@@ -4,7 +4,7 @@ An interactive customer segmentation dashboard built using **Machine Learning**,
 
 ---
 
-![Python](https://img.shields.io/badge/Python-3.11+-blue?logo=python)
+![Python](https://img.shields.io/badge/Python-3.13+-blue?logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikitlearn)
 ![Plotly](https://img.shields.io/badge/Plotly-Interactive_Dashboard-blue?logo=plotly)
