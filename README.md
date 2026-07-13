@@ -153,14 +153,22 @@ AI-Customer-Segmentation-Studio/
 ├── app.py
 ├── requirements.txt
 ├── README.md
-├── dataset/
-│   └── Mall_Customers.csv
 │
 ├── images/
-│   └── screenshots
+│   ├── cluster_insights.png
+│   ├── customer_segment_viz.png
+│   ├── cluster_viz.png
+│   ├── customer_segment_dist.png
+│   ├── business_insights_1.png
+│   ├── business_insights_2.png
+│   ├── download_results.png
+│   ├── dashboard_after_upload.png
+│   └── dashboard_before_upload.png
 │
+├── dataset/
+│   └── Mall_Customers.csv
 └── notebook/
-│   └── customer-segmentation.ipynb
+    └── customer_segmentation.ipynb
 ```
 
 ---
@@ -214,18 +222,26 @@ matplotlib
 ##  Screenshots
 
 ### Dashboard
+![Dashboard](images/dashboard_before_upload.png)
+![Dashboard](images/dashboard_after_upload.png)
 
+### Elbow Graph(Cluster Visualization)
+![Cluster Visualization](images/cluster_viz.png)
 
-
-### Cluster Visualization
-
+### Cluster Insights
+![Cluster Insights](images/cluster_insights.png)
 
 ### Business Insights
+![Business Insights](images/business_insights_1.png)
+![Business Insights](images/business_insights_2.png)
 
+### Customer Segmentation
+![Customer Segments](images/customer_segment_viz.png)
+![Customer Segments](images/customer_segment_dist.png)
 
 ---
 
-## 🎯 Future Improvements
+##  Future Improvements
 
 * Automatic K recommendation using Silhouette Score
 * Support for DBSCAN clustering
@@ -238,25 +254,25 @@ matplotlib
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
-**Yuwin**
+**GodofThunder2407(Yuwin)**
 
 GitHub:
 https://github.com/Yuwin2008
 
 ---
 
-## ⭐ Support
+##  Support
 
 If you found this project useful:
 
-⭐ Star the repository
-🍴 Fork the repository
-🚀 Share it with others
+ Star the repository
+ Fork the repository
+ Share it with others
 
 ---
 
-## 📜 License
+##  License
 
 This project is licensed under the MIT License.
